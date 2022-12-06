@@ -1,0 +1,10 @@
+Notebook = 800
+GasBoiler = 300
+TV = 450
+Lightbulb = 10
+Computer = 750
+Oven = 2000
+ElectricFireplace = 1500
+Computer = 1000
+Notebook = 800
+Microwave = 1500
